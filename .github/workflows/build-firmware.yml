@@ -6,7 +6,7 @@ on:
       config_seed:
         description: 'Build config'
         required: true
-        default: '1710.config'
+        default: '040.config'
         type: choice
         options:
           - 1710.config
